@@ -4,7 +4,7 @@
 
 This project analyzes 8M+ NYPD complaint records and MTA ridership data to identify crime hotspots across 400+ subway stations, comparing pre-pandemic (2019) and post-pandemic (2022) patterns using K-Means clustering.
 
-🚇 **[Live App →](https://your-app-link.streamlit.app)** *(coming soon)*
+🚇 **[Live App →]([https://your-app-link.streamlit.app](https://capstonedata-fbvy2dwbda5hytdqqqwye9.streamlit.app/))** *(App Deployed*
 
 ---
 
