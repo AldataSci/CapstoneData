@@ -72,7 +72,7 @@ Raw crime counts alone are misleading — a busy station like Times Square will 
 
 **Al Haque** — M.Sc. Data Science, CUNY School of Professional Studies (2024)
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/AldataSci)
+[LinkedIn](https://www.linkedin.com/in/al-haque-a97592233/) · [GitHub](https://github.com/AldataSci)
 
 
 
